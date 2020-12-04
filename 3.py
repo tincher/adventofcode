@@ -1,6 +1,5 @@
 import math
 
-
 with open('./input3.txt') as input_file:
     text = input_file.read()
     rows = text.split('\n')

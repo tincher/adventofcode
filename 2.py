@@ -1,7 +1,7 @@
 dummy = {'min': 1,
-        'max': 3,
-        'char': 'f',
-        'password': 'afsadf'}
+         'max': 3,
+         'char': 'f',
+         'password': 'afsadf'}
 
 with open('./input2.txt') as input_file:
     # part 1
